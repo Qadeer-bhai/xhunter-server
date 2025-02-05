@@ -1,11 +1,3 @@
-<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="CH HASEEB :: Visitor's Count" /></p>
-<p align="center">
- <a href="https://chat.whatsapp.com/G4FBtLiaB2f84hkT87LKZ4" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- <p align="center">
-   <a href="http://www.youtube.com/@mhmodsofc" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Subscribe For More Tricks -d27571?style=for-the-badge&logo=youtube&logoColor=whitr" />
-</p>
 
 # xhunter-server
 
